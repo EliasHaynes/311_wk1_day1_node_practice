@@ -1,5 +1,5 @@
 const moment = require('moment'); // require
-const day = moment().format('dddd')
+
 
 
 
